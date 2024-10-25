@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Tarek and I'm a DevOps Engineer, from Cairo, Egypt</p>
+<p align="left">My name is Tarek and I'm a DevOps Engineer, from Egypt</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Squashing bugs since 2023  <br>📚 Currently mastering DevOps tools and workflows  <br>🎯 Aspiring to be a SRE <br>🎲 Fun fact: I find inspiration in nature and often draw parallels to tech!</p>
+<p align="left">✨ Creating bugs since 2023  <br>📚 Currently mastering DevOps tools and workflows  <br>🎯 Aspiring to be a SRE <br>🎲 Fun fact: I find inspiration in nature and often draw parallels to tech!</p>
 
 ###
 
