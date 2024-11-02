@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023  <br>📚 Currently mastering DevOps tools and workflows  <br>🎯 Aspiring to be a Site Reliability Engineer (SRE) <br>🎲 Fun fact: I find inspiration in nature and often draw parallels to tech!</p>
+<p align="left">✨ Creating bugs since 2023  <br>📚 Currently mastering DevOps tools and workflows  <br>🎯 Aspiring to be a Site Reliability Engineer<br>🎲 Fun fact: I find inspiration in nature and often draw parallels to tech!</p>
 
 ###
 
